@@ -42,7 +42,6 @@ public class Main {
                 perCent = ((double) x / vec.length) * 100;
                 nameUnder16 += vec[i].getName() + "  ";
 
-
             }
 
         }
