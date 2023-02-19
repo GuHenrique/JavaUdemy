@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54edc7b9-6dea-4737-b397-a5febd18e3b6" name="Changes" comment="Exercício 1 - vetores">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex1Vetores.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Ex1Vetores/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Vetor2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Vetor2/out/production/Vetor2/Entities/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Vetor2/out/production/Vetor2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Vetores/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="54edc7b9-6dea-4737-b397-a5febd18e3b6" name="Changes" comment="Exercício 1 - vetores" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +36,14 @@
       <option name="presentableId" value="Default" />
       <updated>1676772873964</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercício 1 - vetores">
+      <created>1676774861849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676774861849</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
