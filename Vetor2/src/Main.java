@@ -13,12 +13,24 @@ public class Main {
         int n = sc.nextInt();
         Product[] vect = new Product[n];
 
+        for (int i = 0; i < vect.length; i++) {
+            sc.nextLine();
+            String name = sc.nextLine();
+            double price = sc.nextDouble();
 
-
-        for (int i = 0; i < n; i++){
-
-
+            vect[i] = new Product(name, price);
         }
+        double sum = 0;
+        for (int i = 0; i < vect.length; i++) {
+            sum += vect[i].getPrice();
+        }
+
+        double avg = sum / vect.length;
+
+        System.out.printf("AVERAGE PRICE: %.2f", avg);
+
+        sc.close();
+
 
     }
 }
