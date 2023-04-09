@@ -21,8 +21,9 @@ public class Main {
             System.out.println("Employee #" + i + " data:");
 
             System.out.print("Outsourced (y/n)? ");
-            char outsourced = sc.next().charAt(0);
+            char outsourced = sc.next().toLowerCase().charAt(0);
             sc.nextLine();
+
 
             System.out.print("Name: ");
             String name = sc.nextLine();
