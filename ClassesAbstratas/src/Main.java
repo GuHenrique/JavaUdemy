@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
 
         //Account acc1 = new Account(1001, "Aex", 1000.0); Não é possível instanciar uma classe abstrata.
-        
+
         //Pq então não criar apenas as outras duas classes?
         // - Reuso
         // - Polimorfismo
@@ -24,10 +24,9 @@ public class Main {
 
         double sum = 0;
 
-        for (Account acc : list){
+        for (Account acc : list) {
             sum += acc.getBalance();
         }
-
 
 
         System.out.println(sum);
@@ -37,7 +36,7 @@ public class Main {
             acc.deposit(10);
         }
 
-        for (Account acc: list) {
+        for (Account acc : list) {
             System.out.println(acc.getNumber() + acc.getBalance());
         }
     }

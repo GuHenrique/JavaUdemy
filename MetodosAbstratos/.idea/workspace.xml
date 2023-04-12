@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77aa14cb-ec2d-4b34-8a0e-ac6b1403fc19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MetodosAbstratos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entitie/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entitie/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entitie/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entitie/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1ClassesEMetodosAbstratos/src/entitie/LegalPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1ClassesEMetodosAbstratos/src/entitie/NaturalPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex1ClassesEMetodosAbstratos/src/entitie/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClassesAbstratas/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassesAbstratas/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +51,17 @@
       <updated>1681254826423</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
