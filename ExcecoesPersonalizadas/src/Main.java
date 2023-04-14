@@ -33,9 +33,12 @@ public class Main {
         System.out.print("Check-out date (dd/mm/yyyy): ");
         checkout = LocalDate.parse(sc.nextLine(), reservation.getDtf());
 
-        reservation.updateDates(checkin, checkout);
-
-        System.out.println(reservation);
+        String error = reservation.updateDates(checkin, checkout);
+        if(error != null) {
+            System.out.println("Error in reservation: " + error);
+        }else {
+            System.out.println(reservation);
+        }
 
     }
 }
