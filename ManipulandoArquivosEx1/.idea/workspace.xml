@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e616d7c9-a317-4afb-9198-abfa6176c380" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../BufferedReaderEFileReader/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BufferedReaderEFileReader/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BufferedReaderEFileReader/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BufferedReaderEFileReader/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BufferedReaderEFileReader/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BufferedReaderEFileReader/BufferedReaderEFileReader.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BufferedReaderEFileReader/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaminhoArquivo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaminhoArquivo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaminhoArquivo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaminhoArquivo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaminhoArquivo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaminhoArquivo/CaminhoArquivo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaminhoArquivo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/Data.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/out/production/Data/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataConvert/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataConvert/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataConvert/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataConvert/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataConvert/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataConvert/DataConvert.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataConvert/out/production/DataConvert/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataConvert/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioVetor/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioVetor/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioVetor/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioVetor/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioVetor/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioVetor/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioVetor/DesafioVetor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioVetor/out/production/DesafioVetor/Entities/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioVetor/out/production/DesafioVetor/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioVetor/src/Entities/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioVetor/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex10Vetores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex10Vetores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex10Vetores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex10Vetores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex10Vetores/Ex10Vetores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex10Vetores/out/production/Ex10Vetores/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex10Vetores/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex11Vetores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex11Vetores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex11Vetores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex11Vetores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex11Vetores/Ex11Vetores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex11Vetores/out/production/Ex11Vetores/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex11Vetores/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex12Vetores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex12Vetores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex12Vetores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex12Vetores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex12Vetores/Ex12Vetores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex12Vetores/out/production/Ex12Vetores/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex12Vetores/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1FixacaoException/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1FixacaoException/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1FixacaoException/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1FixacaoException/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1FixacaoException/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1FixacaoException/Ex1FixacaoException.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1FixacaoException/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1FixacaoException/src/entities/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1FixacaoException/src/exceptions/DomainException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1Lists/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1Lists/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1Lists/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1Lists/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1Lists/Ex1Lists.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1Lists/out/production/Ex1Lists/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1Lists/out/production/Ex1Lists/entities/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1Lists/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1Lists/src/entities/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1Vetores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1Vetores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1Vetores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1Vetores/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1Vetores/Ex1Vetores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1Vetores/out/production/Ex1Vetores/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1Vetores/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex2Vetores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex2Vetores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex2Vetores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex2Vetores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex2Vetores/Ex2Vetores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex2Vetores/out/production/Ex2Vetores/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex2Vetores/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex3Vetores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex3Vetores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex3Vetores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex3Vetores/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex3Vetores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex3Vetores/Ex3Vetores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex3Vetores/out/production/Ex3Vetores/Entities/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex3Vetores/out/production/Ex3Vetores/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex3Vetores/src/Entities/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex3Vetores/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex4Vetores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex4Vetores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex4Vetores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex4Vetores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex4Vetores/Ex4Vetores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex4Vetores/out/production/Ex4Vetores/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex4Vetores/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex5Vetores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex5Vetores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex5Vetores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex5Vetores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex5Vetores/Ex5Vetores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex5Vetores/out/production/Ex5Vetores/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex5Vetores/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex6Vetores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex6Vetores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex6Vetores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex6Vetores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex6Vetores/Ex6Vetores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex6Vetores/out/production/Ex6Vetores/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex6Vetores/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex7Vetores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex7Vetores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex7Vetores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex7Vetores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex7Vetores/Ex7Vetores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex7Vetores/out/production/Ex7Vetores/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex7Vetores/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex9Vetores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex9Vetores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex9Vetores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex9Vetores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex9Vetores/Ex9Vetores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex9Vetores/out/production/Ex9Vetores/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex9Vetores/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExMatriz/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExMatriz/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExMatriz/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExMatriz/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExMatriz/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExMatriz/ExMatriz.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExMatriz/out/production/ExMatriz/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExMatriz/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExcecoesPersonalizadas/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExcecoesPersonalizadas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExcecoesPersonalizadas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExcecoesPersonalizadas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExcecoesPersonalizadas/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExcecoesPersonalizadas/ExcecoesPersonalizadas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExcecoesPersonalizadas/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExcecoesPersonalizadas/src/model/entities/Reservation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExcecoesPersonalizadas/src/model/exceptions/DomainException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FIleEScanner/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FIleEScanner/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FIleEScanner/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FIleEScanner/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FIleEScanner/FIleEScanner.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FIleEScanner/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileWritterEBufferedWriter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileWritterEBufferedWriter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileWritterEBufferedWriter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileWritterEBufferedWriter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileWritterEBufferedWriter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileWritterEBufferedWriter/FileWritterEBufferedWriter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileWritterEBufferedWriter/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/Final.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/src/entities/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/src/entities/BusinessAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/src/entities/SavingsAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final/src/entities/SavingsAccountPlus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Finally/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Finally/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Finally/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Finally/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Finally/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Finally/Finally.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Finally/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Listas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Listas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Listas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Listas/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Listas/Listas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Listas/out/production/Listas/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Listas/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManipulandoPastas/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManipulandoPastas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManipulandoPastas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManipulandoPastas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManipulandoPastas/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManipulandoPastas/ManipulandoPastas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ManipulandoPastas/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Matriz/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Matriz/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Matriz/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Matriz/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Matriz/Matriz.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Matriz/out/production/Matriz/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Matriz/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TryCatch/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TryCatch/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TryCatch/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TryCatch/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TryCatch/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TryCatch/TryCatch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TryCatch/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetor2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetor2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetor2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetor2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetor2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetor2/Vetor2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetor2/out/production/Vetor2/Entities/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetor2/out/production/Vetor2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetor2/src/Entities/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetor2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/Vetores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/out/production/Vetores/App/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vetores/src/App/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2OfEt4WFAknnfCQ2iPdVJlJ0RRy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/media/gustavo/SSD/JavaUdemy/Manipulando Arquivos/ManipulandoArquivosEx1"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e616d7c9-a317-4afb-9198-abfa6176c380" name="Changes" comment="" />
+      <created>1681943448320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681943448320</updated>
+    </task>
+    <servers />
+  </component>
+</project>
